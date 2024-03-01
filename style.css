@@ -1,0 +1,77 @@
+
+h3{
+    display: inline;
+}
+#dclock{
+    
+    margin-top: 200px;
+
+    text-align: center;
+}
+
+#date{
+       
+    padding: 30px;
+    color:white;
+}
+
+#month{
+    padding: 30px;
+    color: aliceblue;
+}
+
+#year{
+
+    padding: 30px;
+    color: azure;
+}
+
+div{
+    width: 400px;
+    height: 350px;
+    border: 3px solid ;
+    padding: 10px;
+    margin-left: 540px;
+    background-color: black;
+    
+}
+label{
+    color: white;
+}
+#time{
+    color: white;
+    padding-left: 30px;
+}
+
+#days,li{
+    display: inline-block;
+    text-decoration: none;
+    color:white ;
+    margin-left: 2px;
+    font-size: 15px;
+
+}
+
+#dmy1{
+    color: red;
+    padding: 20px;
+    margin-top: 25px;
+    margin-left: 20px;
+    font-size: 35px;
+}
+#t1{
+    color: red;
+    font-size: 35px;
+}
+
+#m1{
+    color: red;
+    margin-left: 50px;
+    font-size: 35px;
+}
+
+#y1{
+    color: red;
+    margin-left:70px ;
+    font-size: 35px;
+}
